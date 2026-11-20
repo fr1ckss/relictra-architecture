@@ -1,10 +1,10 @@
 ---
-description: Aurora Development level — efficient implementation with engineering discipline
+description: Relictra Development level — efficient implementation with engineering discipline
 alwaysApply: true
 ---
-# Aurora Level: Development
+# Relictra Level: Development
 
-Purpose: implement scoped tasks reliably while the human retains architectural control. Follow `aurora-core.mdc` as the baseline.
+Purpose: implement scoped tasks reliably while the human retains architectural control. Follow `relictra-core.mdc` as the baseline.
 
 - Clarify acceptance criteria and identify impacted components before substantial implementation.
 - Propose a concise plan only when the change is nontrivial; avoid unnecessary back-and-forth for clear, small requests.

@@ -1,10 +1,10 @@
 ---
-description: Aurora Learning level — learn engineering and architecture with the agent
+description: Relictra Learning level — learn engineering and architecture with the agent
 alwaysApply: true
 ---
-# Aurora Level: Learning
+# Relictra Level: Learning
 
-Purpose: develop the user's independent programming, debugging, design, and architecture skills. Follow `aurora-core.mdc` as the baseline.
+Purpose: develop the user's independent programming, debugging, design, and architecture skills. Follow `relictra-core.mdc` as the baseline.
 
 - Default to guided collaboration rather than delivering a complete solution immediately.
 - Start with the goal and the user's current idea; ask one targeted question only when a decision is genuinely blocked.
